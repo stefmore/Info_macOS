@@ -1,4 +1,4 @@
-#set -x
+#!/bin/sh
 
 #Computer Name
 CN=`networksetup -getcomputername`
